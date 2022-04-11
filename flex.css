@@ -1,0 +1,147 @@
+#about {
+   color: #fff;
+}
+
+#bat {
+    color: #C0EDA6;
+}
+
+body {
+    background-color: cyan;
+}
+
+#cool {
+    background-color: cyan;
+}
+
+h1 {
+    font-size: 1.2rem;
+}
+#ego {
+    width: 80%;
+}
+
+#header {
+    color: #20B2AA;
+}
+
+#nice {
+    background-color: cyan;
+    padding: 0 1rem;
+}
+
+#price {
+    color: #fff;
+}
+
+#sec {
+    background-color: #20B2AA;
+    border-bottom-right-radius: 3%;
+    border-bottom-left-radius: 3%;
+}
+
+#Subtitle {
+    font-size: 1rem;
+    color: #C0EDA6;
+}
+
+p {
+   color: #C8C8C8; 
+}
+
+#white {
+    background-color: white;
+    border-top-right-radius: 3%;
+    border-top-left-radius: 3%;
+    
+
+}
+
+#tag {
+    background-color: #00A693;
+    
+}
+
+@media (min-width:768px) {
+  #nice {
+     margin: 30rem 10rem;
+      width: 60%;
+  }
+}
+
+@media (min-width:768px) {
+    #container{
+        display: flex;
+        flex-direction: row;
+        flex-grow: 2;
+        
+        
+    }
+    
+@media (min-width:768px) {
+    #price {
+       font-size: 1rem;
+    }
+    }
+    
+@media (min-width:768px) {
+   #desc {
+        font-size: 0.7rem;
+        font-weight: bold;
+       
+    }
+    }
+    
+@media (min-width:768px) {
+    #about {
+        font-size: 1rem;
+        color: #fff;
+    }
+    }
+    
+@media (min-width:768px) {
+    #contain {
+       
+    }
+    
+    }
+   
+@media (min-width:768px) {
+    #desc2 {
+        font-size: 0.7rem;
+        font-weight: bold;
+        line-height: 2;
+        text-align: left;
+        color: #fff;
+    }
+
+@media (min-width:768px) {
+    #ego {
+        width: 80%;
+    } 
+    }
+    
+@media (min-width:768px) {
+    #sec{
+        border-bottom-left-radius: 0;
+    }
+    }
+   
+@media (min-width:768px) {
+    #tag {
+        border-bottom-left-radius: 3%;
+    }
+    }
+    
+.btn-primary {
+        background-color: #C0EDA6;
+        color: green;
+        border-color: #C0EDA6;
+    }
+    .btn-primary:hover,
+    .btn-primary:focus,
+    .btn-primary:active    {
+        background-color: #3276b1;
+        color: #C0EDA6;
+        border-color: #285e8e;
+    }
